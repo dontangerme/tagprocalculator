@@ -1,1 +1,1 @@
-Donwload the html file and open it in a browser. You have to press h after spawning in to start the bomb physics. + and - to zoom in and out.
+Donwnload the html file and open it in a browser. You have to press h after spawning in to start the bomb physics. + and - to zoom in and out. Enter the numbers to add in binary. 1's place is the bottom, press the left button to turn on a bit, press the right button to turn off a bit.
